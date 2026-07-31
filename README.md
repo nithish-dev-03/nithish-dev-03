@@ -169,6 +169,46 @@ A minimal sample React application designed for teaching freshers Redux concepts
 
 ---
 
+### 🤖 [Nivora AI Chat Application](https://github.com/nithish-dev-03/Nivora-ai)
+
+A modern full-stack AI chat application powered by **NVIDIA's free AI models** with a modular architecture.
+
+**Features:**
+- 💬 Real-time AI Chat with Multiple Models
+- 🔄 Modular Architecture for Easy Extension
+- 🎨 Beautiful React + TypeScript Frontend
+- 🌐 Secure Backend with Express & Node.js
+- 📊 MongoDB Integration for Chat History
+- 🚀 NVIDIA AI Models (Free Tier)
+- 🔐 JWT Authentication
+- 📱 Responsive Design
+- 🌙 Dark/Light Mode Support
+- 💾 Chat Persistence
+
+**Tech Stack:** React, TypeScript, Node.js, Express, MongoDB Atlas, NVIDIA AI APIs
+
+---
+
+### 🎨 [Portfolio - Software Developer](https://github.com/nithish-dev-03/portfolio-software-dev)
+
+A modern, professional software developer portfolio showcasing projects, skills, and GitHub activity.
+
+**Features:**
+- 📋 Project Showcase with Descriptions
+- 💡 Skills & Tech Stack Display
+- 📊 GitHub Activity Integration
+- 🎨 Responsive & Beautiful Design
+- 🔐 Secure Backend Architecture
+- 🌐 GitHub Data Integration
+- 📈 Performance Optimized
+- 🎯 SEO Friendly
+- 🌙 Dark/Light Theme
+- 📱 Mobile Responsive
+
+**Tech Stack:** React, TypeScript, Node.js, Express, Responsive UI/UX
+
+---
+
 ## 🎯 Interests
 
 - Frontend Architecture & Design Patterns
@@ -177,10 +217,11 @@ A minimal sample React application designed for teaching freshers Redux concepts
 - Design Systems & Component Libraries
 - Clean Code & Best Practices
 - Open Source Contribution
-- AI-powered Applications
+- AI-powered Applications & Integration
 - Mobile & Cross-platform Development
 - State Management Solutions
 - Chrome Extensions Development
+- Full Stack Development
 
 ---
 
@@ -192,10 +233,12 @@ A minimal sample React application designed for teaching freshers Redux concepts
 - JWT Lifecycle & Security
 - Advanced Async/Await Patterns
 - Flutter & Native Performance
-- Backend API Design
+- Backend API Design & Best Practices
 - Authentication & Authorization Systems
 - Database Design & Optimization
 - Chrome Extension APIs
+- AI Model Integration & APIs
+- Modular Application Architecture
 
 ---
 
@@ -219,13 +262,15 @@ A minimal sample React application designed for teaching freshers Redux concepts
 
 - 🌟 Active Developer with Multiple Production Projects
 - 💻 Full Stack Developer (Frontend, Backend, Mobile)
-- 🚀 Built 5+ Diverse Projects (Chrome Extensions, Weather, Finance, Todo, Learning Resources)
+- 🚀 Built 7+ Diverse Projects (Chrome Extensions, AI Chat, Weather, Finance, Portfolio, Todo, Learning Resources)
 - 📱 Expert in Flutter & Cross-platform Development
-- 🤖 AI-powered Application Development
+- 🤖 AI-powered Application Development & Integration
 - 📚 Continuous Learner & Knowledge Sharer
 - 🎓 Passionate about Teaching & Mentoring
 - 🤝 Collaborative Team Player
 - 🔧 Chrome Extension Developer
+- 🌐 Full Stack Web Developer
+- 🎨 UI/UX Design & Implementation
 
 ---
 
