@@ -4,7 +4,7 @@
 
 ### Frontend Developer • React Enthusiast • Flutter Learner • Building Fast & Beautiful Experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript;Flutter+Developer+in+Progress;Building+Developer+Tools+and+Web+Apps;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+TypeScript;Flutter+Learning;Full+Stack+Developer" alt="Typing animation" />
 
 </div>
 
@@ -22,6 +22,7 @@ Currently, I'm expanding beyond frontend development by diving deep into:
 - 🌐 Node.js & Express
 - 🔐 Authentication & Security (JWT)
 - 🤖 AI-powered Applications
+- 📊 State Management (Redux, Redux Thunk)
 
 I enjoy understanding **how things work under the hood**, not just how to use them.
 
@@ -39,6 +40,7 @@ I enjoy understanding **how things work under the hood**, not just how to use th
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui)
 
 ---
 
@@ -74,14 +76,12 @@ I enjoy understanding **how things work under the hood**, not just how to use th
 
 ## 🌱 Currently Learning
 
-- React 19
-- React Internals (Fiber, Scheduler, Concurrent Rendering)
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-- Flutter
-- Dart
+- React 19 & React Internals (Fiber, Scheduler, Concurrent Rendering)
+- Node.js & Express.js
+- MongoDB & Database Design
+- JWT Authentication & Security
+- Flutter & Dart
+- Redux & Redux Thunk (State Management)
 - AI Application Development
 - System Design Fundamentals
 
@@ -93,8 +93,7 @@ I enjoy understanding **how things work under the hood**, not just how to use th
 
 A fast, keyboard-driven Chrome Tab Manager built with **Vanilla JavaScript**.
 
-Features include:
-
+**Features:**
 - Instant Search
 - Fuzzy Matching
 - Keyboard Navigation
@@ -102,80 +101,101 @@ Features include:
 - Pinned Tabs
 - Zero Frameworks
 
+**Tech Stack:** Vanilla JavaScript, Chrome Extensions API
+
 ---
 
 ### 🌦 [Aether Weather App](https://github.com/nithish-dev-03/aether-weather-app)
 
 A premium AI-powered weather application built with **Flutter & Gemini API**.
 
-Features include:
+**Features:**
+- 🌦️ Real-time Weather Forecasts
+- 📡 Radar Maps
+- 🤖 AI-powered Weather Insights
+- 📴 Offline Support
+- 🎨 Modern Material 3 UI
+- ✨ Beautiful Animations
+- 🗺️ Open-Meteo Integration
 
-- Real-time Weather Forecasts
-- Radar Maps
-- AI-powered Weather Insights
-- Offline Support
-- Modern Material 3 UI
-- Beautiful Animations
-- Open-Meteo Integration
+**Tech Stack:** Flutter, Dart, Gemini API, Open-Meteo
 
 ---
 
 ### 💰 [InsightWallet](https://github.com/nithish-dev-03/InsightWallet)
 
-A modern cross-platform personal finance tracker built using:
+A modern cross-platform personal finance tracker built for intelligent financial management.
 
-- **Frontend:** Flutter & Dart
-- **Backend:** Node.js & Express
-- **Database:** MongoDB Atlas
+**Features:**
+- 💡 Intelligent Budgeting
+- 📊 Transaction Tracking
+- 🎯 Financial Goal Setting
+- 🤖 AI-powered Financial Insights
+- 🔄 Cross-platform Sync
+- 📈 Financial Analytics
 
-Features include:
-
-- Intelligent Budgeting
-- Transaction Tracking
-- Financial Goal Setting
-- AI-powered Financial Insights
-- Cross-platform Sync
+**Tech Stack:** Flutter, Dart, Node.js, Express.js, MongoDB Atlas
 
 ---
 
 ### ✅ [Todo List App](https://github.com/nithish-dev-03/Todo-list)
 
-A simple yet powerful task management application built with **JavaScript**.
+A modern Todo application with full-stack architecture and advanced features.
 
-Features include:
+**Features:**
+- ✏️ Add, Edit, Delete Tasks
+- 💾 Email-based Task Management
+- 🌙 Dark/Light Mode
+- 🎨 Glassmorphism UI Design
+- 📊 Real-time Progress Tracking
+- 📱 Responsive Design
+- ⚡ Real-time Sync
 
-- Add, Edit, Delete Tasks
-- Local Storage Persistence
-- Clean & Intuitive UI
-- Responsive Design
-- Task Filtering
+**Tech Stack:** React 19, Material UI v9, Node.js, JSON File Persistence
+
+---
+
+### 📚 [Redux & Redux Thunk Learning](https://github.com/nithish-dev-03/Redux-thunk-learn)
+
+A minimal sample React application designed for teaching freshers Redux concepts.
+
+**Purpose:**
+- 🎓 Learn Traditional Redux
+- 🔄 Understand Redux Thunk Middleware
+- 💻 Practical Examples & Best Practices
+- 📖 Educational Resource for Beginners
+
+**Tech Stack:** React, Redux, Redux Thunk, JavaScript
 
 ---
 
 ## 🎯 Interests
 
-- Frontend Architecture
-- Developer Experience (DX)
-- Performance Optimization
-- Design Systems
-- Clean Code
-- Open Source
-- AI Tools
-- Mobile Development
+- Frontend Architecture & Design Patterns
+- Developer Experience (DX) Optimization
+- Performance Optimization & Web Vitals
+- Design Systems & Component Libraries
+- Clean Code & Best Practices
+- Open Source Contribution
+- AI-powered Applications
+- Mobile & Cross-platform Development
+- State Management Solutions
+- Chrome Extensions Development
 
 ---
 
 ## 📚 Currently Exploring
 
-- React Fiber
-- Event Loop
-- Virtual DOM
-- JWT Lifecycle
-- Async JavaScript
-- Flutter Architecture
-- State Management
-- Backend APIs
-- Authentication Systems
+- React Fiber Architecture
+- Event Loop & Asynchronous JavaScript
+- Virtual DOM Optimization
+- JWT Lifecycle & Security
+- Advanced Async/Await Patterns
+- Flutter & Native Performance
+- Backend API Design
+- Authentication & Authorization Systems
+- Database Design & Optimization
+- Chrome Extension APIs
 
 ---
 
@@ -183,33 +203,9 @@ Features include:
 
 <p align="center">
 
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=nithish-dev-03&show_icons=true&theme=tokyonight"/> -->
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-dev-03&theme=tokyonight"/>
 
 </p>
-
-<!-- <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=tokyonight"/>
-
-</p> -->
-
----
-
-## 🏆 Achievements & Milestones
-
-- 🌟 Active Open Source Contributor
-- 💻 Full Stack Developer
-- 🚀 Built Multiple Projects (Aether Weather App, InsightWallet, Tabix, Todo List)
-- 📱 Flutter & Cross-platform Development
-- 🤖 AI-powered Application Development
-- 📚 Continuous Learner (React, Flutter, Node.js, System Design)
-- 🤝 Collaborative Team Player
-
----
-
-## 📊 Contribution Graph
 
 <p align="center">
 
@@ -219,13 +215,25 @@ Features include:
 
 ---
 
+## 🏆 Achievements & Milestones
+
+- 🌟 Active Developer with Multiple Production Projects
+- 💻 Full Stack Developer (Frontend, Backend, Mobile)
+- 🚀 Built 5+ Diverse Projects (Chrome Extensions, Weather, Finance, Todo, Learning Resources)
+- 📱 Expert in Flutter & Cross-platform Development
+- 🤖 AI-powered Application Development
+- 📚 Continuous Learner & Knowledge Sharer
+- 🎓 Passionate about Teaching & Mentoring
+- 🤝 Collaborative Team Player
+- 🔧 Chrome Extension Developer
+
+---
+
 ## 💡 Favorite Quote
 
 > Every expert was once a beginner who refused to quit.
 
-
 ---
-
 
 ## 🤝 Let's Connect
 
@@ -244,14 +252,6 @@ Features include:
 <a href="mailto:nithishnirmaldeveloper@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<!-- <a href="https://twitter.com/nithish_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-
-<a href="https://www.instagram.com/nithish_codes" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a> -->
 
 </p>
 
