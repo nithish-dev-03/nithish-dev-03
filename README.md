@@ -1,203 +1,283 @@
 <div align="center">
 
-# 👋 Hey, I'm Nithish
+<img src="https://raw.githubusercontent.com/nithish-dev-03/nithish-dev-03/main/assets/hero.svg" width="100%" alt="Nirmal Sing Nithish — Product Engineer" />
 
-### Full-Stack Developer · React & TypeScript · Flutter · AI Products
+<br />
 
-<p>
-  <a href="https://github.com/nithish-dev-03"><img src="https://img.shields.io/badge/GitHub-@nithish--dev--03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nithish" /></a>
+<a href="https://github.com/nithish-dev-03?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_LAB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+useful+and+beautiful+products;React+%7C+TypeScript+%7C+Flutter;AI-powered+apps+and+Chrome+extensions;Always+learning.+Always+shipping." alt="Typing introduction" />
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Designing+systems%2C+not+just+screens.;Shipping+web%2C+mobile%2C+and+browser+products.;Building+AI-powered+tools+with+real+product+value.;Performance+%C2%B7+Architecture+%C2%B7+Developer+Experience" alt="Engineering focus" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Engineering Profile
 
-I'm a developer who enjoys turning ideas into polished, practical products. My work spans **web applications, cross-platform mobile apps, AI integrations, and developer-focused Chrome extensions**.
+I’m **Nirmal Sing Nithish**, a product-focused software engineer working across frontend systems, cross-platform mobile, browser extensions, and practical AI products.
 
-- 🎨 I care about thoughtful UI, smooth interactions, and accessible experiences.
-- 🧩 I build end-to-end products with modern frontend and backend tools.
-- 🤖 I'm exploring practical AI features that make software more useful.
-- 📚 I enjoy learning deeply and sharing beginner-friendly technical examples.
+I approach software from both sides of the system: the experience people touch and the architecture that keeps it reliable. That means thinking beyond components—into state boundaries, event flows, browser runtimes, API contracts, performance, accessibility, testing, and long-term maintainability.
 
-> **My goal:** build products that feel simple to use, while solving meaningful problems under the hood.
+```ts
+const engineeringMindset = {
+  direction: "simple experience over complex systems",
+  platforms: ["web", "mobile", "browser"],
+  strengths: ["frontend architecture", "product UI", "automation", "AI integration"],
+  principle: "understand deeply, design intentionally, ship reliably",
+};
+```
+
+<img src="https://raw.githubusercontent.com/nithish-dev-03/nithish-dev-03/main/assets/architecture.svg" width="100%" alt="Engineering capability map" />
 
 ---
 
-## 🛠️ Tech Stack
+## Browser Product Suite
+
+Three Chrome MV3 products, each solving a different layer of the browser workflow—from organizing work, to understanding interfaces, to executing with AI.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚡ [Tabix](https://github.com/nithish-dev-03/Tabix)
+
+**Command center for browser tabs**
+
+A fast, keyboard-first tab manager built with zero frameworks. It combines fuzzy search, domain grouping, native Chrome Tab Groups, bulk actions, bookmark integration, session saving, and live memory indicators.
+
+**Architecture focus**
+
+`Vanilla JS` · `Chrome MV3`  
+`Tabs API` · `Tab Groups API`  
+`Performance-first DOM`
+
+<a href="https://github.com/nithish-dev-03/Tabix"><img src="https://img.shields.io/badge/VIEW_TABIX-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="View Tabix" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🧩 [Devoza](https://github.com/nithish-dev-03/Devoza)
+
+**Developer intelligence for live websites**
+
+An in-browser inspection engine that extracts design tokens, detects UI patterns, audits accessibility, harvests assets, and exports React, CSS, Tailwind, JSON, and AI-ready context.
+
+**Architecture focus**
+
+`React` · `TypeScript` · `MUI`  
+`Content Scripts` · `Service Worker`  
+`Vite + esbuild` · `CDP E2E`
+
+<a href="https://github.com/nithish-dev-03/Devoza"><img src="https://img.shields.io/badge/VIEW_DEVOZA-0F172A?style=for-the-badge&logo=googlechrome&logoColor=A5B4FC" alt="View Devoza" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### ✦ [Flowza](https://github.com/nithish-dev-03/Flowza)
+
+**AI operating layer for the browser**
+
+A side-panel AI assistant for page and document analysis, persistent local memory, multi-step workflows, structured extraction, and browser automation through MCP and a Puppeteer bridge.
+
+**Architecture focus**
+
+`React 19` · `TypeScript` · `Zustand`  
+`MCP` · `WebSockets` · `Puppeteer`  
+`Node.js` · `Local-first storage`
+
+<a href="https://github.com/nithish-dev-03/Flowza"><img src="https://img.shields.io/badge/VIEW_FLOWZA-0F172A?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" alt="View Flowza" /></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+`TABIX — ORGANIZE`　→　`DEVOZA — UNDERSTAND`　→　`FLOWZA — AUTOMATE`
 
 </div>
 
 ---
 
-## ⭐ Featured Projects
+## Selected Product Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [Devoza](https://github.com/nithish-dev-03/Devoza)
-
-A developer-first Chrome MV3 extension for live website inspection, design-system extraction, and AI-ready UI export.
-
-`TypeScript` · `Chrome Extension` · `Design Systems`
-
-<p><a href="https://github.com/nithish-dev-03/Devoza">View repository →</a></p>
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ [Flowza](https://github.com/nithish-dev-03/Flowza)
-
-An AI browser companion in Chrome's side panel for chat, webpage summaries, document analysis, structured extraction, and browser automation.
-
-`TypeScript` · `AI` · `Chrome Extension`
-
-<p><a href="https://github.com/nithish-dev-03/Flowza">View repository →</a></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 💰 [InsightWallet](https://github.com/nithish-dev-03/InsightWallet)
 
-A cross-platform personal finance app for budgeting, transaction tracking, goals, and AI-powered financial insights.
+Cross-platform personal finance product for budgets, transactions, goals, profiles, and AI-assisted financial insights.
 
-`Flutter` · `Dart` · `Express` · `MongoDB`
-
-<p><a href="https://github.com/nithish-dev-03/InsightWallet">View repository →</a></p>
+**System:** Flutter · Express · MongoDB Atlas · JWT
 
 </td>
 <td width="50%" valign="top">
 
-### 🌦️ [Aether Weather App](https://github.com/nithish-dev-03/aether-weather-app)
+### 🌦️ [Aether Weather](https://github.com/nithish-dev-03/aether-weather-app)
 
-A premium weather experience with radar maps, forecasts, offline support, and AI weather insights.
+A premium mobile weather experience with forecasts, radar-driven context, offline behavior, and AI-powered weather insights.
 
-`Flutter` · `Dart` · `Gemini` · `Open-Meteo`
-
-<p><a href="https://github.com/nithish-dev-03/aether-weather-app">View repository →</a></p>
+**System:** Flutter · Dart · Gemini · Open-Meteo
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🧠 [Nivora AI](https://github.com/nithish-dev-03/Nivora-ai)
+
+Full-stack conversational AI with streaming responses, persistent conversations, context-window visibility, and retrieval workflows.
+
+**System:** React · TypeScript · Express · MongoDB · RAG
+
+</td>
 <td width="50%" valign="top">
 
 ### ✅ [Todo List](https://github.com/nithish-dev-03/Todo-list)
 
-A modern full-stack task manager with progress tracking, responsive UI, and dark/light themes.
+Responsive full-stack task management with progress tracking, deliberate state handling, and adaptive light/dark experiences.
 
-`React 19` · `Material UI` · `Node.js`
-
-<p><a href="https://github.com/nithish-dev-03/Todo-list">View repository →</a></p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🐍 [Python Automation](https://github.com/nithish-dev-03/python_automation)
-
-A growing collection of Python automation experiments and practical scripts for streamlining repetitive workflows.
-
-`Python` · `Automation`
-
-<p><a href="https://github.com/nithish-dev-03/python_automation">View repository →</a></p>
+**System:** React 19 · Material UI · Node.js
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📚 Explore more projects</b></summary>
+<summary><b>Explore more engineering work</b></summary>
 <br />
 
-| Project | What it is |
+| Project | Engineering focus |
 | --- | --- |
-| [Redux Thunk Learn](https://github.com/nithish-dev-03/Redux-thunk-learn) | Beginner-friendly Redux and Redux Thunk examples |
-| [Portfolio Software Dev](https://github.com/nithish-dev-03/portfolio-software-dev) | Professional developer portfolio with GitHub integration |
-| [Nivora AI](https://github.com/nithish-dev-03/Nivora-ai) | Full-stack AI chat application with chat persistence |
-| [Tabix](https://github.com/nithish-dev-03/tabix) | Keyboard-driven Chrome tab manager |
+| [Portfolio Software Dev](https://github.com/nithish-dev-03/portfolio-software-dev) | Professional portfolio and GitHub-integrated product presentation |
+| [Python Automation](https://github.com/nithish-dev-03/python_automation) | Practical workflow automation and scripting |
+| [Redux Thunk Learn](https://github.com/nithish-dev-03/Redux-thunk-learn) | Clear examples of Redux async state and middleware behavior |
 
 </details>
 
 ---
 
-## 🌱 What I'm Exploring
+## Technology Architecture
 
-- React 19, frontend architecture, and performance optimization
-- AI application development and API integration
-- Flutter cross-platform development and native performance
-- Node.js API design, authentication, and security
-- Chrome Extension APIs and browser automation
-- Clean architecture, design systems, and developer experience
+<table>
+<tr>
+<td valign="top" width="25%">
 
----
+**Experience Layer**
 
-## 📊 GitHub Activity
+React 18/19  
+TypeScript & JavaScript  
+Material UI / Ant Design  
+Tailwind CSS / Shadcn  
+Responsive UI & accessibility
+
+</td>
+<td valign="top" width="25%">
+
+**Application Layer**
+
+Redux Toolkit / Thunk / Saga  
+Zustand  
+React Router  
+Flutter / Dart  
+WebSockets & streaming UI
+
+</td>
+<td valign="top" width="25%">
+
+**Platform Layer**
+
+Node.js / Express  
+MongoDB / Atlas  
+REST APIs / JWT  
+Chrome Manifest V3  
+Service workers / content scripts
+
+</td>
+<td valign="top" width="25%">
+
+**Intelligence Layer**
+
+LLM API integration  
+RAG & context design  
+MCP-powered tools  
+Browser automation  
+Playwright / Puppeteer
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/nithish-dev-03?tab=overview">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nithish-dev-03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="View Nithish's GitHub statistics" />
+![React](https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=flat-square&logo=typescript&logoColor=3178C6)
+![Flutter](https://img.shields.io/badge/Flutter-0B1020?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=node.js&logoColor=5FA04E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1020?style=flat-square&logo=mongodb&logoColor=47A248)
+![Chrome](https://img.shields.io/badge/Chrome_MV3-0B1020?style=flat-square&logo=googlechrome&logoColor=FABB05)
+![Playwright](https://img.shields.io/badge/Playwright-0B1020?style=flat-square&logo=playwright&logoColor=2EAD33)
+![Git](https://img.shields.io/badge/Git-0B1020?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+---
+
+## How I Build
+
+| 01 · Frame | 02 · Architect | 03 · Execute | 04 · Validate |
+| --- | --- | --- | --- |
+| Define the user problem, constraints, success signals, and failure modes. | Design state ownership, boundaries, contracts, events, storage, and delivery strategy. | Build thin vertical slices with reusable primitives and intentional interaction details. | Test behavior, profile performance, review accessibility, and harden edge cases. |
+
+> The goal is not maximum complexity. It is the smallest architecture that stays clear as the product grows.
+
+---
+
+## Current Direction
+
+- Designing scalable frontend systems with React 19 and TypeScript
+- Building browser-native developer tools and AI-assisted workflows
+- Exploring RAG, context engineering, agent orchestration, and MCP
+- Strengthening automated testing with Playwright and CDP
+- Improving Flutter architecture and cross-platform delivery
+- Turning product ideas into focused, production-minded releases
+
+---
+
+## GitHub Signal
+
+<div align="center">
+
+<a href="https://github.com/nithish-dev-03">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=nithish-dev-03&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8&icon_color=A78BFA&rank_icon=github" alt="Nithish's GitHub statistics" />
 </a>
 <a href="https://github.com/nithish-dev-03?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=tokyonight&hide_border=true" alt="View Nithish's top languages" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8" alt="Nithish's top languages" />
 </a>
 
 <br />
 
-<a href="https://github.com/nithish-dev-03?tab=overview">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-dev-03&theme=tokyonight&hide_border=true" alt="View Nithish's GitHub streak" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/nithish-dev-03?tab=overview">📈 View GitHub activity</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/nithish-dev-03?tab=repositories">📦 View all repositories</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/nithish-dev-03?tab=stars">⭐ View starred projects</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish-dev-03&bg_color=00000000&color=94A3B8&line=22D3EE&point=A78BFA&area=true&area_color=22D3EE&hide_border=true" width="96%" alt="Contribution activity graph" />
 
 </div>
 
-> **Note:** The activity cards above are external GitHub-readme services. If GitHub temporarily blocks an image, the useful text links below them will still work.
-
 ---
-
-## 🤝 Let's Connect
 
 <div align="center">
 
-Whether you want to discuss a project, exchange ideas, or talk about developer tools, feel free to reach out.
+### Have a useful problem worth engineering?
 
-<a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-nithishnirmaldeveloper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nithish" /></a>
-<a href="https://github.com/nithish-dev-03"><img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Nithish on GitHub" /></a>
+I’m interested in product engineering, frontend architecture, browser tooling, mobile experiences, and practical AI systems.
 
-<br /><br />
-
-⭐ If something here helps you, feel free to star the repository!
+<a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-22D3EE?style=for-the-badge&logo=gmail&logoColor=07111F" alt="Email Nithish" /></a>
+<a href="https://github.com/nithish-dev-03?tab=followers"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
 <br /><br />
 
-<sub>Building products · Learning continuously · Sharing knowledge</sub>
+<sub>Architecture with intent · Interfaces with clarity · Products that ship</sub>
 
 </div>
