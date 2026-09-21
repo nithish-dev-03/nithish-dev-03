@@ -252,16 +252,59 @@ Playwright / Puppeteer
 
 <div align="center">
 
-<a href="https://github.com/nithish-dev-03">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=nithish-dev-03&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8&icon_color=A78BFA&rank_icon=github" alt="Nithish's GitHub statistics" />
-</a>
-<a href="https://github.com/nithish-dev-03?tab=repositories">
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=94A3B8" alt="Nithish's top languages" />
-</a>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Product Repositories
+
+Browser tools, AI systems, mobile apps, and full-stack products built with production-minded architecture.
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish-dev-03&bg_color=00000000&color=94A3B8&line=22D3EE&point=A78BFA&area=true&area_color=22D3EE&hide_border=true" width="96%" alt="Contribution activity graph" />
+<a href="https://github.com/nithish-dev-03?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Engineering Focus
+
+Frontend architecture, Chrome MV3 systems, Flutter delivery, AI workflows, and API-backed product experiences.
+
+<br />
+
+<a href="https://github.com/nithish-dev-03/Devoza"><img src="https://img.shields.io/badge/Featured-Devoza-111827?style=for-the-badge&logo=googlechrome&logoColor=A5B4FC" alt="Featured project Devoza" /></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Build Direction
+
+Designing advanced interfaces with clean system boundaries, reliable browser runtime behavior, and practical automation.
+
+<br />
+
+<a href="https://github.com/nithish-dev-03?tab=followers"><img src="https://img.shields.io/badge/Follow_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+<sub>
+Public work signal: <a href="https://github.com/nithish-dev-03/Tabix">Tabix</a> ·
+<a href="https://github.com/nithish-dev-03/Devoza">Devoza</a> ·
+<a href="https://github.com/nithish-dev-03/Flowza">Flowza</a> ·
+<a href="https://github.com/nithish-dev-03/Nivora-ai">Nivora AI</a> ·
+<a href="https://github.com/nithish-dev-03/InsightWallet">InsightWallet</a>
+</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
