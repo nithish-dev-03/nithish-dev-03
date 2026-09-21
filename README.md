@@ -5,8 +5,8 @@
 ### Full-Stack Developer · React & TypeScript · Flutter · AI Products
 
 <p>
-  <a href="https://github.com/nithish-dev-03"><img src="https://img.shields.io/badge/GitHub-nithish--dev--03-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nithish-dev-03"><img src="https://img.shields.io/badge/GitHub-@nithish--dev--03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+useful+and+beautiful+products;React+%7C+TypeScript+%7C+Flutter;AI-powered+apps+and+Chrome+extensions;Always+learning.+Always+shipping." alt="Typing introduction" />
@@ -43,7 +43,7 @@ I'm a developer who enjoys turning ideas into polished, practical products. My w
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 </div>
 
@@ -61,14 +61,18 @@ A developer-first Chrome MV3 extension for live website inspection, design-syste
 
 `TypeScript` · `Chrome Extension` · `Design Systems`
 
+<p><a href="https://github.com/nithish-dev-03/Devoza">View repository →</a></p>
+
 </td>
 <td width="50%" valign="top">
 
 ### ✨ [Flowza](https://github.com/nithish-dev-03/Flowza)
 
-An AI browser companion in Chrome's side panel for chatting, webpage summaries, document analysis, structured extraction, and browser automation.
+An AI browser companion in Chrome's side panel for chat, webpage summaries, document analysis, structured extraction, and browser automation.
 
 `TypeScript` · `AI` · `Chrome Extension`
+
+<p><a href="https://github.com/nithish-dev-03/Flowza">View repository →</a></p>
 
 </td>
 </tr>
@@ -81,6 +85,8 @@ A cross-platform personal finance app for budgeting, transaction tracking, goals
 
 `Flutter` · `Dart` · `Express` · `MongoDB`
 
+<p><a href="https://github.com/nithish-dev-03/InsightWallet">View repository →</a></p>
+
 </td>
 <td width="50%" valign="top">
 
@@ -90,6 +96,8 @@ A premium weather experience with radar maps, forecasts, offline support, and AI
 
 `Flutter` · `Dart` · `Gemini` · `Open-Meteo`
 
+<p><a href="https://github.com/nithish-dev-03/aether-weather-app">View repository →</a></p>
+
 </td>
 </tr>
 <tr>
@@ -97,9 +105,11 @@ A premium weather experience with radar maps, forecasts, offline support, and AI
 
 ### ✅ [Todo List](https://github.com/nithish-dev-03/Todo-list)
 
-A modern full-stack task manager with email-based task management, progress tracking, responsive UI, and dark/light themes.
+A modern full-stack task manager with progress tracking, responsive UI, and dark/light themes.
 
 `React 19` · `Material UI` · `Node.js`
+
+<p><a href="https://github.com/nithish-dev-03/Todo-list">View repository →</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -110,18 +120,22 @@ A growing collection of Python automation experiments and practical scripts for 
 
 `Python` · `Automation`
 
+<p><a href="https://github.com/nithish-dev-03/python_automation">View repository →</a></p>
+
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📚 More projects and learning resources</b></summary>
+<summary><b>📚 Explore more projects</b></summary>
 <br />
 
-- 📖 [Redux Thunk Learn](https://github.com/nithish-dev-03/Redux-thunk-learn) — beginner-friendly examples for traditional Redux and Redux Thunk.
-- 🎨 [Portfolio Software Dev](https://github.com/nithish-dev-03/portfolio-software-dev) — a professional developer portfolio with GitHub activity integration.
-- 🤖 [Nivora AI](https://github.com/nithish-dev-03/Nivora-ai) — a full-stack AI chat application with model integration and chat persistence.
-- ⚡ [Tabix](https://github.com/nithish-dev-03/tabix) — a keyboard-driven Chrome tab manager built with Vanilla JavaScript.
+| Project | What it is |
+| --- | --- |
+| [Redux Thunk Learn](https://github.com/nithish-dev-03/Redux-thunk-learn) | Beginner-friendly Redux and Redux Thunk examples |
+| [Portfolio Software Dev](https://github.com/nithish-dev-03/portfolio-software-dev) | Professional developer portfolio with GitHub integration |
+| [Nivora AI](https://github.com/nithish-dev-03/Nivora-ai) | Full-stack AI chat application with chat persistence |
+| [Tabix](https://github.com/nithish-dev-03/tabix) | Keyboard-driven Chrome tab manager |
 
 </details>
 
@@ -142,18 +156,30 @@ A growing collection of Python automation experiments and practical scripts for 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithish-dev-03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nithish's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<a href="https://github.com/nithish-dev-03?tab=overview">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nithish-dev-03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="View Nithish's GitHub statistics" />
+</a>
+<a href="https://github.com/nithish-dev-03?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=tokyonight&hide_border=true" alt="View Nithish's top languages" />
+</a>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-dev-03&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/nithish-dev-03?tab=overview">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-dev-03&theme=tokyonight&hide_border=true" alt="View Nithish's GitHub streak" />
+</a>
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish-dev-03&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<a href="https://github.com/nithish-dev-03?tab=overview">📈 View GitHub activity</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/nithish-dev-03?tab=repositories">📦 View all repositories</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/nithish-dev-03?tab=stars">⭐ View starred projects</a>
 
 </div>
+
+> **Note:** The activity cards above are external GitHub-readme services. If GitHub temporarily blocks an image, the useful text links below them will still work.
 
 ---
 
@@ -164,13 +190,13 @@ A growing collection of Python automation experiments and practical scripts for 
 Whether you want to discuss a project, exchange ideas, or talk about developer tools, feel free to reach out.
 
 <a href="mailto:nithishnirmaldeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-nithishnirmaldeveloper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nithish" /></a>
-<a href="https://github.com/nithish-dev-03"><img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
+<a href="https://github.com/nithish-dev-03"><img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Nithish on GitHub" /></a>
 
 <br /><br />
 
 ⭐ If something here helps you, feel free to star the repository!
 
-<br />
+<br /><br />
 
 <sub>Building products · Learning continuously · Sharing knowledge</sub>
 
