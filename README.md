@@ -9,7 +9,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Frontend+architecture+with+product+thinking.;Chrome+MV3+extensions+for+real+browser+workflows.;Flutter%2C+React%2C+Node%2C+AI%2C+and+automation.;Clean+systems+%C2%B7+Fast+interfaces+%C2%B7+Useful+products" alt="Engineering focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Frontend+architecture+with+product+clarity;Browser-native+tools+with+real+utility;AI+products+that+solve+actual+problems;Clean+systems+that+ship" alt="Typing animation about product engineering" />
 
 </div>
 
@@ -24,28 +24,28 @@
 ### 👋 Who
 
 **Nirmal Sing Nithish**  
-Frontend-focused product engineer building web, mobile, browser, and AI-powered tools.
+Frontend-focused product engineer building browser tools, mobile products, and AI-powered user experiences.
 
 </td>
 <td width="25%" valign="top">
 
 ### ⚙️ Strength
 
-Turning messy workflows into clean interfaces with solid state, API, runtime, and delivery architecture.
+Turning messy workflows into crisp interfaces backed by solid state architecture, clean APIs, and production-minded delivery.
 
 </td>
 <td width="25%" valign="top">
 
 ### 🚀 Best signal
 
-A growing Chrome MV3 product suite: **Tabix**, **Devoza**, and **Flowza**.
+A growing Chrome MV3 product suite and a portfolio of full-stack, AI, and app-building work across public and private repos.
 
 </td>
 <td width="25%" valign="top">
 
 ### 🎯 Direction
 
-Advanced frontend systems, browser-native developer tools, practical AI, and production-ready UI.
+Advanced frontend systems, browser-native developer tools, practical AI workflows, and scalable product execution.
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Advanced frontend systems, browser-native developer tools, practical AI, and pro
 
 **Tab command center for power users.**
 
-Designed for fast tab discovery, grouping, cleanup, session control, and memory-aware browser workflows.
+Built for fast tab discovery, grouping, cleanup, session control, and memory-aware browser workflows.
 
 **Ships with**
 
@@ -95,7 +95,7 @@ Designed for fast tab discovery, grouping, cleanup, session control, and memory-
 
 **Live website inspector for developers.**
 
-Built to understand existing websites faster: inspect UI, extract design systems, audit quality, and export usable frontend context.
+Built to understand existing websites faster: inspect UI, extract design systems, audit quality, and export actionable frontend context.
 
 **Ships with**
 
@@ -136,46 +136,50 @@ A side-panel assistant for page understanding, document analysis, persistent loc
 
 ---
 
-## Product work worth checking
+## Current GitHub portfolio
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [InsightWallet](https://github.com/nithish-dev-03/InsightWallet)
+### 💡 Browser + tooling
 
-Personal finance product with budgets, transactions, goals, profiles, and AI-assisted financial insights.
-
-`Flutter` · `Express` · `MongoDB Atlas` · `JWT`
+- [Tabix](https://github.com/nithish-dev-03/Tabix) — lightweight tab manager and workspace organizer
+- [Devoza](https://github.com/nithish-dev-03/Devoza) — website inspector and design-system extraction tool
+- [Flowza](https://github.com/nithish-dev-03/Flowza) — AI side-panel for browser tasks, context, and automation
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Nivora AI](https://github.com/nithish-dev-03/Nivora-ai)
+### 🤖 AI + full-stack product work
 
-Conversational AI app with streaming responses, saved conversations, context visibility, and retrieval workflows.
-
-`React` · `TypeScript` · `Express` · `MongoDB` · `RAG`
+- [Nivora AI](https://github.com/nithish-dev-03/Nivora-ai) — conversational AI app with streaming chat and retrieval workflows
+- [orvethiq](https://github.com/nithish-dev-03/orvethiq) — modular chat app with FastAPI + PostgreSQL backend
+- [pdf-rag](https://github.com/nithish-dev-03/pdf-rag) — document understanding and retrieval-focused experiments
+- [help-desk](https://github.com/nithish-dev-03/help-desk) — support ticket platform built with FastAPI and SQLAlchemy
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ [Aether Weather](https://github.com/nithish-dev-03/aether-weather-app)
+### 📱 Mobile + app products
 
-Premium mobile weather experience with forecasts, offline behavior, and AI-powered weather insights.
-
-`Flutter` · `Dart` · `Gemini` · `Open-Meteo`
+- [InsightWallet](https://github.com/nithish-dev-03/InsightWallet) — personal finance app with budgets, goals, and AI insights
+- [Aether Weather](https://github.com/nithish-dev-03/aether-weather-app) — premium weather experience with offline support and AI-guided forecasting
+- [Todo-list](https://github.com/nithish-dev-03/Todo-list) — productivity app with responsive UI and clean task state
+- [Django_todo-app](https://github.com/nithish-dev-03/Django_todo-app) — full-stack todo app with Django backend and React frontend
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Todo List](https://github.com/nithish-dev-03/Todo-list)
+### 🧪 Portfolio + learning + experiments
 
-Responsive task management with progress tracking, adaptive UI, and clean state handling.
-
-`React 19` · `Material UI` · `Node.js`
+- [portfolio-software-dev](https://github.com/nithish-dev-03/portfolio-software-dev) — secure, backend-powered developer portfolio
+- [portfolio-software-dev-web-gl](https://github.com/nithish-dev-03/portfolio-software-dev-web-gl) — immersive WebGL-inspired portfolio experience
+- [Redux-thunk-learn](https://github.com/nithish-dev-03/Redux-thunk-learn) — learning-focused Redux and async state project
+- [python-interview-questions](https://github.com/nithish-dev-03/python-interview-questions) — interview prep and architecture deep dives
+- [python_automation](https://github.com/nithish-dev-03/python_automation) — Python automation and workflow experiments
 
 </td>
 </tr>
@@ -299,7 +303,7 @@ RAG, context engineering, agentic workflows, and AI products that solve specific
 
 ### 🧭 Browser tooling
 
-Chrome extension runtimes, sidepanels, service workers, MCP bridges, and automation layers.
+Chrome extension runtimes, side panels, service workers, MCP bridges, and automation layers.
 
 </td>
 </tr>
