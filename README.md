@@ -1,20 +1,25 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/nithish-dev-03/nithish-dev-03/main/assets/hero.svg" width="100%" alt="Nirmal Sing Nithish - Software Developer" />
 
-<img src="https://raw.githubusercontent.com/nithish-dev-03/nithish-dev-03/main/assets/hero.svg" width="100%" alt="Nirmal Sing Nithish - Software Engineer" />
+<br />
+
+### FULL-STACK DEVELOPER · APPLIED AI · SOFTWARE ENGINEERING
+
+Building intelligent applications, scalable backend systems, and modern digital experiences.
 
 <br />
 
 <a href="mailto:nithishnirmaldeveloper@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_BUILD-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/LET'S_BUILD-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/nithish-dev-03?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Frontend+Engineer+%7C+React+%26+TypeScript;Building+browser-native+developer+tools;Exploring+AI+agents+%26+RAG+systems;Turning+ideas+into+working+software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Applied+AI+%26+LLM+Applications;React+%7C+TypeScript+%7C+Python;RAG+%7C+Agents+%7C+Vector+Search;Flutter+%7C+Dart+%7C+Mobile+Development" alt="Professional tagline" />
 
 </div>
 
@@ -22,308 +27,208 @@
 
 ## 👋 About Me
 
-I'm **Nirmal Sing Nithish**, a software developer focused on building modern frontend applications, full-stack products, browser extensions, and practical AI-powered tools.
+I'm **Nirmal Sing Nithish**, a software developer passionate about building practical software across frontend engineering, backend development, mobile applications, and applied artificial intelligence.
 
-My development journey started with frontend engineering using React and JavaScript, later expanding into mobile development with Flutter and backend development using Node.js and Python.
+My development journey spans multiple technologies and engineering domains:
 
-I enjoy understanding how systems work, designing their architecture, and turning complex requirements into usable software.
-
-### What I work on
-
-- **Frontend Engineering:** Building scalable React applications with TypeScript, reusable components, and maintainable state management.
-- **Browser Engineering:** Developing Chrome extensions using Manifest V3, service workers, content scripts, and browser APIs.
-- **Backend Development:** Building REST APIs, authentication systems, database integrations, and backend services.
-- **AI Engineering:** Exploring LLM integrations, RAG pipelines, embeddings, vector search, and agent-based workflows.
+- **Frontend Engineering:** Developing modern, maintainable applications using React, TypeScript, and JavaScript.
+- **Backend Engineering:** Designing REST APIs, authentication systems, database architectures, and backend services using Python and Node.js.
+- **Applied AI:** Building LLM-powered applications, RAG pipelines, semantic memory systems, and AI agent workflows.
+- **Data & Intelligence:** Exploring embeddings, vector databases, semantic retrieval, and time-series forecasting.
 - **Mobile Development:** Building cross-platform applications using Flutter and Dart.
+- **Browser Engineering:** Developing Chrome extensions, browser automation workflows, and developer productivity tools.
 
----
+I enjoy understanding the engineering behind systems, exploring new technologies, and turning ideas into functional software.
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Ecosystem
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="Frontend technologies" />
 
-### Backend & Databases
+### Backend Development & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,mongodb,postgres,redis" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,postgres,mongodb,redis" alt="Backend technologies" />
+
+### Artificial Intelligence & Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,docker,linux" alt="AI and development tools" />
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_Agents-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/TimesFM-2563EB?style=flat-square" />
 
 ### Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile technologies" />
 
-### Browser Development & Automation
+### Browser Engineering & Automation
 
 <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
 
-### AI & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Developer tools" />
-
-<br />
-
-<img src="https://img.shields.io/badge/LLM_APIs-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector_Search-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" />
-
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 01. Flowza — AI-Powered Browser Assistant
+Projects selected to demonstrate my work across AI systems, full-stack engineering, data processing, and application development.
+
+### 01. BharatQuant AI — Indian Market Research & Forecasting
+
+<a href="https://github.com/nithish-dev-03/BharatQuant-AI">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+An Indian stock-market research and analytics platform covering NSE and BSE indices, including Nifty 50, Sensex, and listed equities.
+
+**Engineering Highlights**
+- TimesFM 2.5 time-series forecasting.
+- Historical market data analysis.
+- Technical indicators and market analytics.
+- Experimental AI forecasting workflows.
+- Asynchronous background processing.
+- API-driven architecture.
+- Redis-backed job processing.
+- Market research and backtesting.
+
+**Tech Stack:** Python, TimesFM 2.5, PyTorch, FastAPI, PostgreSQL, Redis, React, TypeScript.
+
+> Read-only analytical platform. Forecasts are experimental and are not financial advice.
+
+---
+
+### 02. Flowza — AI Browser Companion
 
 <a href="https://github.com/nithish-dev-03/Flowza">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Flowza repository" />
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-An AI-powered browser assistant designed to understand web pages, retrieve relevant context, and execute browser workflows through structured tool interactions.
+An AI-powered Chrome browser companion that brings conversational AI, webpage understanding, document analysis, and browser automation into the browsing experience.
 
-**Key Engineering Areas**
+**Engineering Highlights**
+- Chrome Extension Manifest V3 architecture.
+- AI-powered conversational interface.
+- Webpage and document analysis.
+- Structured tool execution.
+- MCP integration.
+- Browser automation workflows.
+- Local browser memory and storage.
+- WebSocket-based communication.
 
-- Chrome Manifest V3 architecture.
-- React 19 and TypeScript.
-- AI agent execution loops.
-- Tool calling and MCP integration.
-- Browser automation using Puppeteer.
-- WebSocket communication.
-- Context retrieval and local memory.
-- Tool validation and execution security.
-
-**Tech Stack:** React, TypeScript, Node.js, Express, Puppeteer, MCP, WebSockets.
+**Tech Stack:** React, TypeScript, Chrome Extensions, Node.js, Puppeteer, MCP, WebSockets.
 
 ---
 
-### 02. InsightWallet — Personal Finance Application
+### 03. Multi-Memory Assistant — Intelligent Context Management
 
-<a href="https://github.com/nithish-dev-03/InsightWallet">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="InsightWallet repository" />
+<a href="https://github.com/nithish-dev-03/multi-memory-assistant">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-A cross-platform personal finance application for tracking transactions, managing budgets, monitoring financial goals, and processing bank statements.
+An AI conversational assistant exploring different memory architectures for maintaining context across conversations and sessions.
 
-**Key Engineering Areas**
+**Engineering Highlights**
+- Session-based short-term memory.
+- Sliding-window context management.
+- Token-budgeted summarization.
+- Semantic memory using vector embeddings.
+- Episodic memory storage and retrieval.
+- User-scoped memory management.
+- PostgreSQL vector search.
+- Streaming LLM responses.
 
-- Flutter application architecture.
-- Riverpod state management.
-- REST API integration.
-- JWT authentication.
-- Bank statement PDF processing.
-- Bank-specific transaction parsers.
-- MongoDB persistence.
-- Financial summaries and insights.
-
-**Tech Stack:** Flutter, Dart, Riverpod, Node.js, Express, MongoDB.
+**Tech Stack:** Python, LangChain, Google Gemini, PostgreSQL, pgvector, SQLAlchemy.
 
 ---
 
-### 03. Help Desk — Ticket Management Platform
-
-<a href="https://github.com/nithish-dev-03/help-desk">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Help Desk repository" />
-</a>
-
-A full-stack support ticket management application built to explore backend engineering, API architecture, authentication, and database management.
-
-**Key Engineering Areas**
-
-- FastAPI REST API development.
-- SQLAlchemy ORM.
-- PostgreSQL database integration.
-- Alembic database migrations.
-- JWT authentication and authorization.
-- HTTP-only cookie-based sessions.
-- Redis-backed rate limiting.
-- React Query and form validation.
-
-**Tech Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, React, TypeScript, Tailwind CSS.
-
----
-
-### 04. PDF RAG — Retrieval-Augmented Generation
+### 04. PDF RAG — Document Intelligence
 
 <a href="https://github.com/nithish-dev-03/pdf-rag">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="PDF RAG repository" />
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-A Python-based document question-answering system that explores the fundamentals of Retrieval-Augmented Generation.
+A Retrieval-Augmented Generation system that extracts information from PDF documents, stores contextual representations, and generates grounded answers using multiple retrieval strategies.
 
-**Key Engineering Areas**
-
-- PDF text extraction.
-- Document chunking.
-- Embedding generation.
-- PostgreSQL and pgvector.
-- Semantic similarity search.
+**Engineering Highlights**
+- PDF document ingestion and extraction.
+- Text chunking and embedding generation.
+- PostgreSQL and pgvector integration.
 - Cosine-distance-based retrieval.
-- Context construction.
-- LLM-powered answer generation.
+- Naive RAG retrieval.
+- Hypothetical Document Embeddings (HyDE).
+- Knowledge graph extraction and retrieval.
+- Context-aware answer generation with page citations.
 
-**Tech Stack:** Python, PostgreSQL, pgvector, SQLAlchemy, Gemini API, Embeddings.
+**Tech Stack:** Python, Google Gemini, PostgreSQL, pgvector, SQLAlchemy.
 
 ---
 
-### 05. Python Automation
+### 05. Multilingual Voice Assistant
 
-<a href="https://github.com/nithish-dev-03/python_automation">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Python automation repository" />
+<a href="https://github.com/nithish-dev-03/multilingual-voice-assistant">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-A collection of Python automation workflows focused on browser automation, information extraction, and integrating external services.
+A full-stack multilingual AI assistant supporting conversational interactions through text and voice, including speech transcription and synthesized audio responses.
 
-**Key Engineering Areas**
+**Engineering Highlights**
+- Browser-based audio recording.
+- Audio file uploads and validation.
+- Speech-to-text transcription.
+- Multilingual conversational AI.
+- Text-to-speech generation.
+- Conversation history management.
+- FastAPI service architecture.
 
-- Playwright browser automation.
-- Structured data extraction.
-- AI-assisted information processing.
-- Checkpoint-based execution.
-- Data validation.
-- CRM integration.
-- Excel exports.
-
-**Tech Stack:** Python, Playwright, LLM APIs, REST APIs.
-
----
-
-### 06. Django Todo — Full-Stack Task Management
-
-<a href="https://github.com/nithish-dev-03/Django_todo-app">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Django Todo repository" />
-</a>
-
-A task management application combining a Django backend with a modern React frontend.
-
-**Key Engineering Areas**
-
-- Django backend development.
-- React 19 frontend.
-- REST API integration.
-- Optimistic UI updates.
-- Task filtering and prioritization.
-- Drag-and-drop task organization.
-
-**Tech Stack:** Python, Django, React, TypeScript, Ant Design.
+**Tech Stack:** Python, FastAPI, Google Gemini, React, JavaScript, Material UI.
 
 ---
 
-## 🧩 Browser Engineering Projects
+## 🧩 More Projects
 
-A collection of browser-native developer tools focused on productivity, website inspection, and automation.
+### AI, Data & Backend Engineering
 
-> Some of these repositories are private. Their descriptions are included to demonstrate the broader scope of my engineering work; repository access depends on visibility permissions.
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [pgvector-semantic-search](https://github.com/nithish-dev-03/pgvector-semantic-search) | Hands-on semantic search implementation using embeddings and cosine similarity. | Python, Gemini, pgvector |
+| [orvethiq](https://github.com/nithish-dev-03/orvethiq) | AI conversational application with a React frontend and backend integration planned. | React, TypeScript, Vite |
+| [help-desk](https://github.com/nithish-dev-03/help-desk) | Support ticket management backend with authentication and role-based access. | Python, FastAPI, PostgreSQL, Redis |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Web & Full-Stack Applications
 
-### ⚡ Tabix
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [Django Todo](https://github.com/nithish-dev-03/Django_todo-app) | Full-stack task management application. | Django, React, TypeScript, Ant Design |
+| [Todo List](https://github.com/nithish-dev-03/Todo-list) | Task management with themes and progress tracking. | React, JavaScript, Node.js |
+| [Redux Thunk Learning](https://github.com/nithish-dev-03/Redux-thunk-learn) | Practical exploration of Redux and asynchronous state management. | React, Redux, JavaScript |
 
-**Browser Tab Manager**
+### Mobile & Finance Applications
 
-A Chrome extension designed to improve tab organization and browser productivity.
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [InsightWallet](https://github.com/nithish-dev-03/InsightWallet) | Personal finance application for transactions, budgeting, financial goals, and insights. | Flutter, Dart, Riverpod, Express, MongoDB |
+| [Aether Weather](https://github.com/nithish-dev-03/aether-weather-app) | AI-powered weather application with modular architecture and forecasting features. | Flutter, Dart, Riverpod, Gemini |
 
-- Fuzzy tab search.
-- Keyboard navigation.
-- Native tab groups.
-- Bulk tab operations.
-- Bookmark integration.
-- Session management.
-- Memory-aware workflows.
+### Automation & Technical Learning
 
-**Tech:** JavaScript, Chrome Manifest V3.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Devoza
-
-**Website Inspection Toolkit**
-
-A developer tool for inspecting websites and extracting reusable frontend design information.
-
-- DOM inspection.
-- Design token extraction.
-- Typography and color analysis.
-- Accessibility checks.
-- Asset inspection.
-- Frontend code exports.
-- Design-system analysis.
-
-**Tech:** React, TypeScript, Chrome Manifest V3.
-
-</td>
-</tr>
-</table>
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [Python Automation](https://github.com/nithish-dev-03/python_automation) | Browser automation and external-service integration workflows. | Python, Playwright |
+| [Python Interview Questions](https://github.com/nithish-dev-03/python-interview-questions) | Python and FastAPI learning and interview reference. | Python, FastAPI |
+| [Privacy Policy](https://github.com/nithish-dev-03/privacy-policy) | HTML-based privacy policy page. | HTML |
 
 ---
 
-## 🧠 Engineering Interests
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend Architecture
-
-- Scalable component systems.
-- State management patterns.
-- Performance optimization.
-- API integration.
-- Design systems.
-- Browser APIs.
-
-</td>
-<td width="50%" valign="top">
-
-### Backend Engineering
-
-- REST API design.
-- Authentication and authorization.
-- Database modeling.
-- SQL and ORM.
-- Caching.
-- Deployment and CI/CD.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Applied AI
-
-- LLM integrations.
-- Retrieval-Augmented Generation.
-- Embedding models.
-- Vector databases.
-- Context engineering.
-- AI agent workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### Developer Tooling
-
-- Chrome extensions.
-- Manifest V3.
-- Service workers.
-- MCP integrations.
-- Browser automation.
-- Developer productivity tools.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -331,7 +236,7 @@ A developer tool for inspecting websites and extracting reusable frontend design
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-dev-03&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<br />
+<br /><br />
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-dev-03&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -339,27 +244,28 @@ A developer tool for inspecting websites and extracting reusable frontend design
 
 ---
 
-## 📌 Currently Exploring
+## 🧠 Currently Exploring
 
-- Building reliable AI agent execution systems.
-- Improving RAG retrieval quality and evaluation.
-- Advanced React and TypeScript architecture.
-- PostgreSQL and vector database engineering.
-- Backend security and automated testing.
-- Production-ready browser automation.
+- Advanced LLM application development.
+- LangChain and LangGraph architectures.
+- AI agent orchestration and tool execution.
+- Context engineering and multi-layer memory systems.
+- RAG evaluation and retrieval optimization.
+- Vector databases and PostgreSQL internals.
+- Time-series forecasting and applied ML.
+- Backend architecture, testing, and scalability.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on frontend applications, developer tools, browser extensions, full-stack products, and practical AI-powered software.
+I'm interested in collaborating on practical AI applications, developer tools, full-stack products, backend systems, and innovative mobile or browser experiences.
 
 <div align="center">
 
 <a href="mailto:nithishnirmaldeveloper@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://github.com/nithish-dev-03">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
